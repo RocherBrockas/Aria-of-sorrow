@@ -1,0 +1,1982 @@
+﻿[
+
+    {
+        "name": "Castle corridor",
+        "color": "#934f17",
+        "children": [
+
+            {
+                "name": "Entrance towers",
+                "access_rules": [ "djump", "bat", "hyppogriph" ],
+                "sections": [
+                    {
+                        "name": "Check it",
+                        "access_rules": [ "{djump}", "bat", "hyppogriph" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 400,
+                        "y": 1850
+                    }
+                ]
+            },
+            {
+                "name": "Entrance towers",
+                "access_rules": [ "djump", "bat", "hyppogriph" ],
+                "sections": [
+                    {
+                        "name": "Cestus",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 465,
+                        "y": 1910
+                    }
+                ]
+            },
+            {
+                "name": "Castle Entrance",
+                "access_rules": [ "djump", "bat", "hyppogriph" ],
+                "sections": [
+                    {
+                        "name": "Mina's Treasure",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 150,
+                        "y": 1970
+                    }
+                ]
+            },
+            {
+                "name": "Creaking Reward",
+                "color": "#aa860d",
+                "sections": [
+                    {
+                        "name": "CastleMap 1",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 1630,
+                        "y": 2100
+                    }
+                ]
+            },
+            {
+                "name": "First Secret Room",
+                "color": "#aa860d",
+                "sections": [
+                    {
+                        "name": "Hopefully something good",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 1500,
+                        "y": 2200
+                    }
+                ]
+            },
+            {
+                "name": "Long Swim",
+                "color": "#aa860d",
+                "sections": [
+                    {
+                        "name": "Flying armor",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 2100,
+                        "y": 2200
+                    }
+                ]
+            },
+            //  First three items room
+            {
+                "name": "Corridor entrance",
+                "sections": [
+                    {
+                        "name": "Top",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Short sword",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Merman Pond",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 800,
+                        "y": 2150
+                    }
+                ]
+            },
+            {
+                "name": "White dragon room",
+                "sections": [
+                    {
+                        "name": "Potion",
+                        "access_rules": [ "djump", "bat", "hyppogriph", "flyingarmor", "blackp" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 1720,
+                        "y": 1640
+                    }
+                ]
+            },
+            {
+                "name": "Under the inner quarters",
+                "sections": [
+                    {
+                        "name": "Left side of the room",
+                        "access_rules": [ "djump", "bat", "hyppogriph", "flyingarmor", "blackp" ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Right side of the room",
+                        "access_rules": [ "djump", "bat", "hyppogriph", "flyingarmor", "blackp" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 1910,
+                        "y": 1600
+                    }
+                ]
+            },
+            {
+                "name": "Dance Hall Tower",
+                "sections": [
+                    {
+                        "name": "Spear",
+                        "access_rules": [ "{djump}", "bat", "hyppogriph", "divekick", "blackp" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 1250,
+                        "y": 1970
+                    }
+                ]
+            },
+            {
+
+                "name": "Scarf room",
+                "sections": [
+                    {
+                        "name": "Scarf",
+                        "access_rules": [ "djump", "bat", "hyppogriph", "flyingarmor", "blackp" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 2700,
+                        "y": 1550
+                    }
+                ]
+            },
+            {
+
+                "name": "Catoblepas room",
+                "sections": [
+                    {
+                        "name": "Why no zip ?",
+                        "access_rules": [ "djump", "bat", "hyppogriph", "backdash,flyingarmor", "blackp" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 2700,
+                        "y": 1450
+                    }
+                ]
+            },
+            {
+
+                "name": "Fire armor",
+                "sections": [
+                    {
+                        "name": "accessible early",
+                        "access_rules": [ "djump", "bat", "hyppogriph", "flyingarmor", "blackp" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 2450,
+                        "y": 1450
+                    }
+                ]
+            },
+            {
+
+                "name": "Fire armor",
+                "sections": [
+                    {
+                        "name": "Accessible late",
+                        "access_rules": [
+                            "bat",
+                            "hyppogriph",
+                            "{djump}",
+                            "{flyingarmor}",
+                            "{blackp}"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 2400,
+                        "y": 1450
+                    }
+                ]
+            },
+            {
+
+                "name": "Corridor outside",
+                "sections": [
+                    {
+                        "name": "Bat needed",
+                        "access_rules": [ "bat", "{djump}", "{hyppogriph}", "{flyingarmor}", "{blackp}" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 3890,
+                        "y": 1640
+                    }
+                ]
+            },
+            {
+
+                "name": "Merman corridor",
+                "sections": [
+                    {
+                        "name": "entrance",
+                        "access_rules": [ "djump", "bat", "hyppogriph", "flyingarmor", "blackp" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 3890,
+                        "y": 1870
+                    }
+                ]
+            },
+            {
+
+                "name": "Merman corridor",
+                "sections": [
+                    {
+                        "name": "Dead end",
+                        "access_rules": [ "djump", "bat", "hyppogriph", "flyingarmor", "blackp" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 3280,
+                        "y": 1880
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Underground reservoir",
+        "color": "#158134",
+        "children": [
+            {
+                //  Reservoir items
+                "name": "Reservoir entrance",
+                "color": "#aa860d",
+                "sections": [
+                    {
+                        "name": "Pendant",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 560,
+                        "y": 2325
+                    }
+                ]
+            },
+            {
+                "name": "Underground reservoir",
+                "sections": [
+                    {
+                        "name": "Rahab's Sword",
+                        "access_rules": [ "djump,skula" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 1450,
+                        "y": 24800
+                    }
+                ]
+            },
+            {
+                "name": "Merman party",
+                "sections": [
+                    {
+                        "name": "Elfin robe",
+                        "access_rules": [ "djump,undine", "bat", "hyppogriph" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 1250,
+                        "y": 2250
+                    }
+                ]
+            },
+            {
+                "name": "Underground reservoir",
+                "sections": [
+                    {
+                        "name": "Needle Party",
+                        "access_rules": [ "djump,skula" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 1520,
+                        "y": 3150
+                    }
+                ]
+            },
+            {
+                "name": "Underground reservoir",
+                "sections": [
+                    {
+                        "name": "Milican sword",
+                        "access_rules": [ "djump,skula" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 2600,
+                        "y": 2200
+                    }
+                ]
+            },
+            {
+                "name": "Underground reservoir",
+                "sections": [
+                    {
+                        "name": "Above the waterfall",
+                        "access_rules": [ "djump,skula" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 2590,
+                        "y": 2340
+                    }
+                ]
+            },
+            {
+                "name": "Underground reservoir",
+                "sections": [
+                    {
+                        "name": "Demon's treasure",
+                        "access_rules": [ "djump,skula" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 3050,
+                        "y": 2100
+                    }
+                ]
+            },
+            {
+                "name": "Underground reservoir",
+                "sections": [
+                    {
+                        "name": "Yellow book",
+                        "access_rules": [ "djump,skula" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 3400,
+                        "y": 2075
+                    }
+                ]
+            },
+            {
+                "name": "Underground reservoir",
+                "sections": [
+                    {
+                        "name": "Rare ring",
+                        "access_rules": [ "djump,skula" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 3740,
+                        "y": 2200
+                    }
+                ]
+            },
+            {
+                "name": "Underground reservoir",
+                "sections": [
+                    {
+                        "name": "Air bubble in the cave",
+                        "access_rules": [ "djump,skula" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 3280,
+                        "y": 2250
+                    }
+                ]
+            },
+            {
+                "name": "Underground reservoir",
+                "sections": [
+                    {
+                        "name": "Waterfall room top left",
+                        "access_rules": [ "djump,skula,bat", "djump,skula,hyppogriph" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 2900,
+                        "y": 2450
+                    }
+                ]
+            },
+            {
+                "name": "Underground reservoir",
+                "sections": [
+                    {
+                        "name": "Handgun",
+                        "access_rules": [ "djump,skula,bat", "djump,skula,hyppogriph", "{djump,skula}" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 3100,
+                        "y": 2415
+                    }
+                ]
+            },
+            {
+                "name": "Underground reservoir",
+                "sections": [
+                    {
+                        "name": "Tonic",
+                        "access_rules": [ "djump,skula,hyppogriph", "djump,skula,bat" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 3100,
+                        "y": 2465
+                    }
+                ]
+            },
+            {
+                "name": "Underground reservoir",
+                "sections": [
+                    {
+                        "name": "Flesh golem room",
+                        "access_rules": [ "djump,skula,bat", "djump,skula,hyppogriph", "{djump,skula}" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 3190,
+                        "y": 2685
+                    }
+                ]
+            },
+            {
+                "name": "Underground reservoir",
+                "sections": [
+                    {
+                        "name": "Osafune",
+                        "access_rules": [ "djump,skula" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 3642,
+                        "y": 2550
+                    }
+                ]
+            },
+            {
+                "name": "Underground reservoir",
+                "sections": [
+                    {
+                        "name": "Triton and demon room",
+                        "access_rules": [ "djump,skula" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 3040,
+                        "y": 2350
+                    }
+                ]
+            },
+            {
+                "name": "Underground reservoir",
+                "sections": [
+                    {
+                        "name": "Cemetary entrance",
+                        "access_rules": [ "djump,skula" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 1520,
+                        "y": 3350
+                    }
+                ]
+            },
+            {
+                "name": "Underground reservoir",
+                "sections": [
+                    {
+                        "name": "Armor of water",
+                        "access_rules": [ "djump,skula" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 2885,
+                        "y": 3050
+                    }
+                ]
+            },
+            {
+                "name": "Underground reservoir",
+                "sections": [
+                    {
+                        "name": "Ceiling of Triton's room",
+                        "access_rules": [ "djump,skula" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 1850,
+                        "y": 3050
+                    }
+                ]
+            },
+            {
+                "name": "Underground reservoir",
+                "sections": [
+                    {
+                        "name": "Behind the fish heads",
+                        "access_rules": [ "djump,skula" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 1925,
+                        "y": 2500
+                    }
+                ]
+            },
+            {
+                "name": "Reservoir corridor",
+                "color": "#aa860d",
+                "sections": [
+                    {
+                        "name": "Tasty meat",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 1500,
+                        "y": 2325
+                    }
+                ]
+            }
+        ]
+
+    },
+    {
+        "name": "Chapel",
+        "color": "#033114",
+        "children": [
+            {
+                "name": "Chapel Belfry",
+                "sections": [
+                    {
+                        "name": "Lower part left",
+                        "access_rules": [ "djump", "bat", "hyppogriph", "flyingarmor", "blackp" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 4300,
+                        "y": 1700
+                    }
+                ]
+            },
+            {
+                "name": "Chapel Belfry",
+                "sections": [
+                    {
+                        "name": "Middle part left",
+                        "access_rules": [ "djump", "bat", "hyppogriph", "flyingarmor", "blackp" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 4340,
+                        "y": 1600
+                    }
+                ]
+            },
+            {
+                "name": "Chapel Belfry",
+                "sections": [
+                    {
+                        "name": "Upper part left",
+                        "access_rules": [ "{djump},blackp", "{flyingarmor}", "{djump}", "bat", "hyppogriph", "{flyingarmor},djump" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 4290,
+                        "y": 1400
+                    }
+                ]
+            },
+            {
+                "name": "Chapel Right side",
+                "sections": [
+                    {
+                        "name": "Bone Pillar jump",
+                        "access_rules": [ "djump", "bat", "hyppogriph", "flyingarmor", "blackp" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 4850,
+                        "y": 1640
+                    }
+                ]
+            },
+            {
+                "name": "Chapel Staircase",
+                "sections": [
+                    {
+                        "name": "Little alcove",
+                        "access_rules": [ "djump", "bat", "hyppogriph", "flyingarmor", "blackp" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 4850,
+                        "y": 1780
+                    }
+                ]
+            },
+            {
+                "name": "Chapel Belfry",
+                "sections": [
+                    {
+                        "name": "Upper part left longjump",
+                        "access_rules": [ "{djump},blackp", "bat", "hyppogriph", "{flyingarmor},djump", "{flyingarmor}", "{djump}" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 4370,
+                        "y": 1400
+                    }
+                ]
+            },
+            {
+                "name": "Manticore Chapel",
+                "sections": [
+                    {
+                        "name": "Skeleton knight's secret",
+                        "access_rules": [ "djump", "bat", "hyppogriph", "flyingarmor", "blackp" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 4650,
+                        "y": 2020
+                    }
+                ]
+            },
+            {
+                "name": "Manticore Chapel",
+                "sections": [
+                    {
+                        "name": "Skeleton knight's secret's secret",
+                        "access_rules": [ "djump", "bat", "hyppogriph", "flyingarmor", "blackp" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 4650,
+                        "y": 1950
+                    }
+                ]
+            },
+            {
+                "name": "Dancer's Chapel",
+                "sections": [
+                    {
+                        "name": "Une room",
+                        "access_rules": [ "djump", "bat", "hyppogriph", "flyingarmor", "blackp" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 4150,
+                        "y": 1900
+                    }
+                ]
+            },
+            {
+                "name": "Manticore Chapel",
+                "sections": [
+                    {
+                        "name": "Vanilla Book location",
+                        "access_rules": [ "bat", "hyppogriph", "[blackp,djump]" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 4590,
+                        "y": 1830
+                    }
+                ]
+            },
+            {
+                "name": "Dancers' Chapel",
+                "sections": [
+                    {
+                        "name": "Long jump",
+                        "access_rules": [
+                            "djump,flyingarmor",
+                            "hyppogriph",
+                            "bat",
+                            "djump,blackp",
+                            "{djump}"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 4360,
+                        "y": 1830
+                    }
+                ]
+            },
+            {
+                "name": "Chapel Belfry",
+                "sections": [
+                    {
+                        "name": "Upper Part Right",
+                        "access_rules": [ "djump", "bat", "hyppogriph", "flyingarmor", "blackp" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 4550,
+                        "y": 1400
+                    }
+                ]
+            }
+
+        ]
+    },
+    {
+        "name": "Study",
+        "color": "#158134",
+        "children": [
+            {
+                "name": "Bastard sword room",
+                "sections": [
+                    {
+                        "name": "Bastard sword",
+                        "access_rules": [ "djump", "bat", "hyppogriph", "flyingarmor", "blackp" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 4360,
+                        "y": 2325
+                    }
+                ]
+            },
+            {
+                "name": "Study",
+                "sections": [
+                    {
+                        "name": "Double jump checkable room",
+                        "access_rules": [ "djump", "bat", "hyppogriph" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 4650,
+                        "y": 2200
+                    }
+                ]
+            },
+            {
+                "name": "Butchers' room",
+                "sections": [
+                    {
+                        "name": "Some healing item",
+                        "access_rules": [ "djump", "bat", "hyppogriph", "flyingarmor", "blackp" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 4170,
+                        "y": 2385
+                    }
+                ]
+            },
+            {
+                "name": "Study's back room",
+                "sections": [
+                    {
+                        "name": "Push the crate to the right",
+                        "access_rules": [ "djump", "bat", "hyppogriph" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 4650,
+                        "y": 2325
+                    }
+                ]
+            },
+            {
+                "name": "Study's back room",
+                "sections": [
+                    {
+                        "name": "Drop the crate",
+                        "access_rules": [ "djump", "bat", "hyppogriph", "flyingarmor", "blackp" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 4800,
+                        "y": 2400
+                    }
+                ]
+            },
+            {
+                "name": "Study's secret",
+                "sections": [
+                    {
+                        "name": "Study's secret",
+                        "access_rules": [ "djump", "bat", "hyppogriph", "flyingarmor", "blackp" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 3890,
+                        "y": 2385
+                    }
+                ]
+            },
+            {
+                "name": "Study's Hall",
+                "sections": [
+                    {
+                        "name": "Long jump",
+                        "access_rules": [ "djump,flyingarmor", "bat", "hyppogriph", "djump,blackp" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 4070,
+                        "y": 2385
+                    }
+                ]
+            },
+            {
+                "name": "Study",
+                "sections": [
+                    {
+                        "name": "Checkable stuff",
+                        "access_rules": [ "{djump}", "{hyppogriph}", "{flyingarmor}", "{blackp}", "bat", "djump,slide", "hyppogriph,slide", "flyingarmor,slide", "blackp,slide" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 4020,
+                        "y": 2650
+                    }
+                ]
+            },
+            {
+                "name": "Hammer Room",
+                "sections": [
+                    {
+                        "name": "Malphas",
+                        "access_rules": [ "djump", "bat", "hyppogriph", "flyingarmor", "blackp" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 4170,
+                        "y": 2650
+                    }
+                ]
+            },
+            {
+                "name": "Backdash room",
+                "sections": [
+                    {
+                        "name": "Skull door",
+                        "access_rules": [ "djump,backdash", "bat,backdash", "hyppogriph,backdash", "flyingarmor,backdash", "blackp,backdash" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 4650,
+                        "y": 2550
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dance hall",
+        "color": "#345a99",
+        "children": [
+            {
+                // dance hall -> long jump ->  "access_rules": [ "djump,flyingarmor", "bat", "hyppogriph", "blackp,malphas" ],
+                "name": "Dance Hall Main room",
+                "sections": [
+                    {
+                        "name": "Small alcove",
+                        "access_rules": [ "{djump,flyingarmor},slide", "bat", "{hyppogriph},slide", "{blackp,djump},slide" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 650,
+                        "y": 1550
+                    }
+                ]
+            },
+            {
+                // dance hall -> long jump ->  "access_rules": [ "djump,flyingarmor", "bat", "hyppogriph", "blackp,malphas" ],
+                "name": "Golem fight reward",
+                "sections": [
+                    {
+                        "name": "Tsuchinoko room",
+                        "access_rules": [ "djump,flyingarmor", "bat", "hyppogriph", "blackp,djump" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 680,
+                        "y": 1880
+                    }
+                ]
+            },
+            {
+                "name": "Minotaur's Secret",
+                "sections": [
+                    {
+                        "name": "Minotaur's Secret",
+                        "access_rules": [ "djump,flyingarmor", "bat", "hyppogriph", "blackp,djump" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 465,
+                        "y": 1400
+                    }
+                ]
+            },
+            {
+                "name": "Top of Dance hall left side",
+                "sections": [
+                    {
+                        "name": "Cato & flea",
+                        "access_rules": [ "djump,flyingarmor", "bat", "hyppogriph", "blackp,djump" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 560,
+                        "y": 1280
+                    }
+                ]
+            },
+            {
+                "name": "Top of Dance hall Right side",
+                "sections": [
+                    {
+                        "name": "Cato & Waiter",
+                        "access_rules": [ "djump,flyingarmor", "bat", "hyppogriph", "blackp,djump" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 850,
+                        "y": 1280
+                    }
+                ]
+            },
+            {
+                "name": "Top of Dance hall ",
+                "sections": [
+                    {
+                        "name": "Mansarde",
+                        "access_rules": [ "djump,flyingarmor,divekick", "bat", "hyppogriph", "blackp,djump" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 680,
+                        "y": 1150
+                    }
+                ]
+            },
+            {
+                "name": "Upper Secret",
+                "sections": [
+                    {
+                        "name": "Secret room to name",
+                        "access_rules": [ "djump,flyingarmor,divekick", "bat", "hyppogriph", "blackp,djump,divekick" ],
+                        "item_count": 2
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 1250,
+                        "y": 1400
+                    }
+                ]
+            },
+            {
+                "name": "Dance Hall Pit",
+                "sections": [
+                    {
+                        "name": "Dead end",
+                        "access_rules": [ "djump,flyingarmor", "bat", "hyppogriph", "blackp,djump" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 720,
+                        "y": 1730
+                    }
+                ]
+            },
+            {
+
+                "name": "Dance Hall Pit",
+                "sections": [
+                    {
+                        "name": "Small alcove",
+                        "access_rules": [ "{djump,flyingarmor},slide", "bat", "{hyppogriph},slide", "{blackp,djump},slide" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 650,
+                        "y": 1730
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Floating gardens",
+        "color": "#754607",
+        "children": [
+            {
+                "name": "Floating Gardens",
+                "sections": [
+                    {
+                        "name": "Scroll",
+                        "access_rules": [ "djump,undine", "bat", "hyppogriph", "[],djump" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 2600,
+                        "y": 1970
+                    }
+                ]
+            },
+            {
+                "name": "Floating Gardens",
+                "sections": [
+                    {
+                        "name": "Room B left",
+                        "access_rules": [ "djump,undine", "bat", "hyppogriph", "[],djump" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 600,
+                        "y": 470
+                    }
+                ]
+            },
+            {
+                "name": "Floating Gardens",
+                "sections": [
+                    {
+                        "name": "Room B Right",
+                        "access_rules": [ "djump,undine", "bat", "hyppogriph", "[],djump" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 800,
+                        "y": 470
+                    }
+                ]
+            },
+            {
+                "name": "Floating Gardens",
+                "sections": [
+                    {
+                        "name": "Room F",
+                        "access_rules": [ "djump,undine", "bat", "hyppogriph", "[],djump" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 4155,
+                        "y": 730
+                    }
+                ]
+            },
+            {
+                "name": "Floating Gardens",
+                "sections": [
+                    {
+                        "name": "Room D",
+                        "access_rules": [ "djump,undine", "bat", "hyppogriph", "[],djump" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 4700,
+                        "y": 915
+                    }
+                ]
+            },
+            {
+                "name": "Floating Gardens",
+                "sections": [
+                    {
+                        "name": "Room E",
+                        "access_rules": [ "djump,undine", "bat", "hyppogriph", "[],djump" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 1330,
+                        "y": 260
+                    }
+                ]
+            }
+
+        ]
+    },
+    {
+        "name": "Inner quarters",
+        "color": "#701d43",
+        "children": [
+            {
+                "name": "Inner Quarters",
+                "sections": [
+                    {
+                        "name": "Dance hall entrance",
+                        "access_rules": [ "djump,flyingarmor", "bat", "hyppogriph", "blackp,djump" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 1500,
+                        "y": 1380
+                    }
+                ]
+            },
+            {
+
+                "name": "Inner Quarters",
+                "sections": [
+                    {
+                        "name": "Witch secret",
+                        "access_rules": [ "djump,flyingarmor", "bat", "hyppogriph", "blackp,djump" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 1630,
+                        "y": 1430
+                    }
+                ]
+            },
+            {
+
+                "name": "Inner Quarters",
+                "sections": [
+                    {
+                        "name": "Student Witch secret",
+                        "access_rules": [ "djump,flyingarmor", "bat", "hyppogriph", "blackp,djump" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 1700,
+                        "y": 1430
+                    }
+                ]
+            },
+            {
+
+                "name": "Top of the quarters",
+                "sections": [
+                    {
+                        "name": "Undine and hrunting",
+                        "access_rules": [ "djump,flyingarmor", "bat", "hyppogriph", "blackp,djump" ],
+                        "item_count": 2
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 1910,
+                        "y": 630
+                    }
+                ]
+            },
+            {
+
+                "name": "Inner Quarters",
+                "sections": [
+                    {
+                        "name": "Lilith room",
+                        "access_rules": [ "djump,flyingarmor", "bat", "hyppogriph,slide", "blackp,djump" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 2180,
+                        "y": 1400
+                    }
+                ]
+            },
+            {
+
+                "name": "Inner Quarters",
+                "sections": [
+                    {
+                        "name": "Galamoth locked",
+                        "access_rules": [ "djump,flyingarmor,galamoth", "bat,galamoth", "hyppogriph,slide,galamoth", "blackp,djump,galamoth" ],
+                        "item_count": 2
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 1250,
+                        "y": 1000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Top floor",
+        "color": "#0d8452",
+        "children": [
+            {
+                "name": "Top Floor",
+                "sections": [
+                    {
+                        "name": "Max Potion",
+                        "access_rules": [ "bat","hyppogriph" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 3100,
+                        "y": 1280
+                    }
+                ]
+            },
+            {
+
+                "name": "Top Floor",
+                "sections": [
+                    {
+                        "name": "Satan ring",
+                        "access_rules": [ "bat","hyppogriph" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 2700,
+                        "y": 1190
+                    }
+                ]
+            },
+            {
+
+                "name": "Top Floor",
+                "sections": [
+                    {
+                        "name": "Top Floor secret",
+                        "access_rules": [ "bat","hyppogriph" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 2450,
+                        "y": 1000
+                    }
+                ]
+            },
+            {
+
+                "name": "Top Floor",
+                "sections": [
+                    {
+                        "name": "Hyppogriph",
+                        "access_rules": [ "bat","hyppogriph" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 2700,
+                        "y": 980
+                    }
+                ]
+            },
+            {
+
+                "name": "Top Floor",
+                "sections": [
+                    {
+                        "name": "Mana prism",
+                        "access_rules": [ "bat","hyppogriph" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 2885,
+                        "y": 480
+                    }
+                ]
+            },
+            {
+
+                "name": "Top Floor",
+                "sections": [
+                    {
+                        "name": "Kaladbolg",
+                        "access_rules": [ "hyppogriph" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 2400,
+                        "y": 630
+                    }
+                ]
+            },
+            {
+
+                "name": "Top Floor",
+                "sections": [
+                    {
+                        "name": "Last item i added to this tracker :)",
+                        "access_rules": [ "hyppogriph" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 2400,
+                        "y": 470
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Forbidden area",
+        "color": "#345a99",
+        "children": [
+            {
+
+                "name": "Behind waterfall",
+                "sections": [
+                    {
+                        "name": "Eversing",
+                        "access_rules": [ "skula,djump,undine,rush" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 3130,
+                        "y": 2850
+                    }
+                ]
+            },
+            {
+
+                "name": "The most enclosed area",
+                "sections": [
+                    {
+                        "name": "Not happy to pick Joyeuse",
+                        "access_rules": [ "skula,djump,undine,rush" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 3800,
+                        "y": 3100
+                    }
+                ]
+            },
+            {
+
+                "name": "Forbidden Area's secret",
+                "sections": [
+                    {
+                        "name": "Claimh Solais",
+                        "access_rules": [ "skula,djump,undine,rush" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 4150,
+                        "y": 3040
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Clock tower",
+        "color": "#158134",
+        "children": [
+            {
+                "name": "Clock Tower",
+                "sections": [
+                    {
+                        "name": "Mystelain",
+                        "access_rules": [ "undine,djump", "[],djump", "bat", "hyppogriph" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 3280,
+                        "y": 1200
+                    }
+                ]
+            },
+            {
+                "name": "Clock Tower",
+                "sections": [
+                    {
+                        "name": "Death reward + skula",
+                        "access_rules": [ "undine,djump", "[],djump", "bat", "hyppogriph" ],
+                        "item_count": 2
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 3400,
+                        "y": 630
+                    }
+                ]
+            },
+            {
+                "name": "Clock Tower",
+                "sections": [
+                    {
+                        "name": "Pendulum room",
+                        "access_rules": [ "undine,djump,skula", "[],djump,skula", "bat,skula", "hyppogriph,skula" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 3650,
+                        "y": 1380
+                    }
+                ]
+            },
+            {
+                "name": "Clock Tower",
+                "sections": [
+                    {
+                        "name": "Pitch Black suit",
+                        "access_rules": [ "undine,djump,skula", "[],djump,skula", "bat,skula", "hyppogriph,skula" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 3280,
+                        "y": 1550
+                    }
+                ]
+            },
+            {
+                "name": "Clock Tower",
+                "sections": [
+                    {
+                        "name": "MONEY !",
+                        "access_rules": [ "undine,djump", "[],djump", "bat", "hyppogriph" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 3610,
+                        "y": 1100
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Underground cemetary",
+        "color": "#aa860d",
+        "children": [
+            {
+
+                "name": "Underground cemetary",
+                "sections": [
+                    {
+                        "name": "Werejaguar room",
+                        "access_rules": [ "skula,djump" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 1900,
+                        "y": 3260
+                    }
+                ]
+            },
+            {
+
+                "name": "Underground cemetary",
+                "sections": [
+                    {
+                        "name": "Treasure after legion",
+                        "access_rules": [ "skula,djump" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 2690,
+                        "y": 3260
+                    }
+                ]
+            },
+            {
+
+                "name": "Underground cemetary",
+                "sections": [
+                    {
+                        "name": "Cagnazzo room",
+                        "access_rules": [ "skula,djump" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 3200,
+                        "y": 3260
+                    }
+                ]
+            },
+            {
+
+                "name": "Underground cemetary",
+                "sections": [
+                    {
+                        "name": "Backstab fest",
+                        "access_rules": [ "skula,djump" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 3270,
+                        "y": 3350
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "The arena",
+        "color": "#02473f",
+        "children": [
+            {
+
+                "name": "Trapped room",
+                "sections": [
+                    {
+                        "name": "Top right corner",
+                        "access_rules": [ "skula,djump" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 1070,
+                        "y": 2535
+                    }
+                ]
+            },
+            {
+
+                "name": "I CAME IN LIKE A WRECKING BAAAALL !!",
+                "sections": [
+                    {
+                        "name": "Lubicante room",
+                        "access_rules": [ "skula,djump" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 970,
+                        "y": 2860
+                    }
+                ]
+            },
+            {
+
+                "name": "Worst room in the game",
+                "sections": [
+                    {
+                        "name": "golden medusa room",
+                        "access_rules": [ "skula,djump,bat", "skula,djump,slide" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 970,
+                        "y": 2980
+                    }
+                ]
+            },
+            {
+
+                "name": "Balore's cave",
+                "sections": [
+                    {
+                        "name": "Giant Bat soul",
+                        "access_rules": [ "skula,djump" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 150,
+                        "y": 3080
+                    }
+                ]
+            },
+            {
+
+                "name": "Fountain",
+                "sections": [
+                    {
+                        "name": "Black Cloak",
+                        "access_rules": [ "skula,djump,slide", "skula,bat","{skula,djump}" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 560,
+                        "y": 2765
+                    }
+                ]
+            },
+            {
+
+                "name": "Some guarded ring",
+                "sections": [
+                    {
+                        "name": "Creaking skull brother",
+                        "access_rules": [ "skula,djump,hyppogriph", "skula,djump,bat", "skula,djump,bat" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 840,
+                        "y": 2535
+                    }
+                ]
+            },
+            {
+
+                "name": "Red minotaur room",
+                "sections": [
+                    {
+                        "name": "Laevatein",
+                        "access_rules": [ "skula,djump" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 470,
+                        "y": 2650
+                    }
+                ]
+            },
+            {
+
+                "name": "Lasers everywhere",
+                "sections": [
+                    {
+                        "name": "Nova skeleton room",
+                        "access_rules": [ "skula,djump,bat" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 970,
+                        "y": 3080
+                    }
+                ]
+            }
+        ]
+    }
+
+
+]
+      
+    

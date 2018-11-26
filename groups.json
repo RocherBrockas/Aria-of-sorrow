@@ -1,0 +1,50 @@
+﻿[
+  {
+    "name": "Castle corridor",
+    "color": "#934f17"
+  },
+  {
+    "name": "Underground reservoir",
+    "color": "#158134"
+  },
+  {
+    "name": "Chapel",
+    "color": "#033114"
+  },
+  {
+    "name": "Study",
+    "color": "#158134"
+  },
+  {
+    "name": "Dance hall",
+    "color": "#345a99"
+  },
+  {
+    "name": "Inner quarters",
+    "color": "#701d43"
+  },
+  {
+    "name": "Top floor",
+    "color": "#0d8452"
+  },
+  {
+    "name": "Forbidden area",
+    "color": "#345a99"
+  },
+  {
+    "name": "Clock tower",
+    "color": "#158134"
+  },
+    {
+        "name": "Underground cemetary",
+        "color": "#aa860d"
+    },
+    {
+        "name": "Floating Gardens",
+        "color": "#754607" 
+    },
+  {
+    "name": "The arena",
+    "color": "#02473f"
+  }
+]
