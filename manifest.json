@@ -1,9 +1,9 @@
 ﻿{
-  "name": "ARIA OF SORROW RANDOMIZER - v1.0",
-  "game_name": "Aria of sorrow Randomizer",
-  "game_variant": "Abyssonym (v9.2)",
-  "package_version": "1.0",
-  "package_uid": "aos_rando_1.0",
-  "author": "Rocher",
-  "link" : "" 
+    "name": "ARIA OF SORROW RANDOMIZER - v1.0",
+    "game_name": "Aria of sorrow Randomizer",
+    "game_variant": "Abyssonym (v9.2)",
+    "package_version": "1.0",
+    "package_uid": "aos_rando_1.0",
+    "author": "Rocher",
+    "link": "https://github.com/RocherBrockas/Aria-of-sorrow/blob/master/aria%20of%20sorrow.zip"
 }
