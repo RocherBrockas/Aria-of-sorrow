@@ -1,0 +1,28 @@
+{
+    "name": "Tracker by Rocher",
+    "packages": [
+        {
+            "name": "Castlevania Aria of Sorrow Randomizer",
+            "author": "Rocher",
+            "game_name": "Castlevania Aria of Sorrow Randomizer",
+            "flags": [
+                "map",
+                "pins",
+                "chathud"
+            ],
+            "version": "1.0",
+            "uid": "aos_rando_rocher",
+            "link": "https://hamsda.github.io/OoTRMapTracker/ootrando_overworldmap_hamsda.zip",
+            "variants": [
+                {
+                    "name": "Regular Map Tracker",
+                    "flags": [
+                        "map",
+                        "pins",
+                        "chathud"
+                    ]
+                }
+            ]
+        }
+    ]
+}
