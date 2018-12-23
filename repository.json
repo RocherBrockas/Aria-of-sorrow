@@ -12,10 +12,10 @@
             ],
             "version": "1.0",
             "uid": "aos_rando_rocher",
-            "link": "https://github.com/RocherBrockas/Aria-of-sorrow/blob/master/aria%20of%20sorrow.zip",
+            "link": "https://github.com/RocherBrockas/Aria-of-sorrow/blob/master/aos_rando_rocher.zip",
             "variants": [
                 {
-                    "name": "Regular Map Tracker",
+                    "name": "Map Tracker",
                     "flags": [
                         "map",
                         "pins",
