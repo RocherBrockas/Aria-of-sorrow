@@ -1,9 +1,9 @@
 ﻿{
-    "name": "ARIA OF SORROW RANDOMIZER - v1.0",
-    "game_name": "Aria of sorrow Randomizer",
+    "name": "Castlevania: Aria of sorrow Randomizer",
+    "game_name": "Castlevania: Aria of sorrow Randomizer",
     "game_variant": "Abyssonym (v9.2)",
     "package_version": "1.0",
-    "package_uid": "aos_rando_1.0",
+    "package_uid": "aos_rando_rocher",
     "author": "Rocher",
     "link": "https://rocherbrockas.github.io/Aria-of-sorrow/aos_rando_rocher.zip"
 }

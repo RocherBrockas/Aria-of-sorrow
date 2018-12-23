@@ -2,9 +2,9 @@
     "name": "Tracker by Rocher",
     "packages": [
         {
-            "name": "Castlevania Aria of Sorrow Randomizer",
+            "name": "Castlevania: Aria of Sorrow Randomizer",
             "author": "Rocher",
-            "game_name": "Castlevania Aria of Sorrow Randomizer",
+            "game_name": "Castlevania: Aria of Sorrow Randomizer",
             "flags": [
                 "map",
                 "pins",
