@@ -66,7 +66,135 @@
                         ]
                     },
                     {
-                        "type": "map"
+                        "type": "tabbed",
+                        "tabs": [
+                            {
+                                "title": "Full Castle",
+                                "content": {
+                                    "type": "map",
+                                    "maps": [
+                                        "castle"
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "In Game Map",
+                                "content": {
+                                    "type": "map",
+                                    "maps": [
+                                        "ingame"
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Chaotic Realm",
+                                "content": {
+                                    "type": "map",
+                                    "maps": [
+                                        "Chaotic Realm"
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Floating Gardens",
+                                "content": {
+                                    "type": "map",
+                                    "maps": [
+                                        "floating"
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "The arena",
+                                "content": {
+                                    "type": "map",
+                                    "maps": [
+                                        "arena"
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Chapel",
+                                "content": {
+                                    "type": "map",
+                                    "maps": [
+                                        "chapel"
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Clock Tower",
+                                "content": {
+                                    "type": "map",
+                                    "maps": [
+                                        "clock"
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Castle Corridor",
+                                "content": {
+                                    "type": "map",
+                                    "maps": [
+                                        "corridor"
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Dance Hall",
+                                "content": {
+                                    "type": "map",
+                                    "maps": [
+                                        "dancehall"
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Inner Quarters",
+                                "content": {
+                                    "type": "map",
+                                    "maps": [
+                                        "inner"
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Underground Reservoir",
+                                "content": {
+                                    "type": "map",
+                                    "maps": [
+                                        "reservoir"
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Study",
+                                "content": {
+                                    "type": "map",
+                                    "maps": [
+                                        "study"
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Top Floor",
+                                "content": {
+                                    "type": "map",
+                                    "maps": [
+                                        "topfloor"
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Forbidden Area",
+                                "content": {
+                                    "type": "map",
+                                    "maps": [
+                                        "forbidden"
+                                    ]
+                                }
+                            }
+                        ]
                     }
                 ]
             }
@@ -109,7 +237,135 @@
                         ]
                     },
                     {
-                        "type": "map"
+                        "type": "tabbed",
+                        "tabs": [
+                            {
+                                "title": "Full Castle",
+                                "content": {
+                                    "type": "map",
+                                    "maps": [
+                                        "castle"
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Chaotic Realm",
+                                "content": {
+                                    "type": "map",
+                                    "maps": [
+                                        "Chaotic Realm"
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Floating Gardens",
+                                "content": {
+                                    "type": "map",
+                                    "maps": [
+                                        "floating"
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "In Game Map",
+                                "content": {
+                                    "type": "map",
+                                    "maps": [
+                                        "ingame"
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "The arena",
+                                "content": {
+                                    "type": "map",
+                                    "maps": [
+                                        "arena"
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Chapel",
+                                "content": {
+                                    "type": "map",
+                                    "maps": [
+                                        "chapel"
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Clock Tower",
+                                "content": {
+                                    "type": "map",
+                                    "maps": [
+                                        "clock"
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Castle Corridor",
+                                "content": {
+                                    "type": "map",
+                                    "maps": [
+                                        "corridor"
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Dance Hall",
+                                "content": {
+                                    "type": "map",
+                                    "maps": [
+                                        "dancehall"
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Inner Quarters",
+                                "content": {
+                                    "type": "map",
+                                    "maps": [
+                                        "inner"
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Underground Reservoir",
+                                "content": {
+                                    "type": "map",
+                                    "maps": [
+                                        "reservoir"
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Study",
+                                "content": {
+                                    "type": "map",
+                                    "maps": [
+                                        "study"
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Top Floor",
+                                "content": {
+                                    "type": "map",
+                                    "maps": [
+                                        "topfloor"
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Forbidden Area",
+                                "content": {
+                                    "type": "map",
+                                    "maps": [
+                                        "forbidden"
+                                    ]
+                                }
+                            }
+                        ]
                     }
                 ]
             }

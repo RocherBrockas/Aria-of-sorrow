@@ -19,6 +19,16 @@
                         "map": "castle",
                         "x": 297,
                         "y": 1405
+                    },
+                    {
+                        "map": "corridor",
+                        "x": 300,
+                        "y": 360
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 265,
+                        "y": 1800
                     }
                 ]
             },
@@ -36,6 +46,16 @@
                         "map": "castle",
                         "x": 361,
                         "y": 1445
+                    },
+                    {
+                        "map": "corridor",
+                        "x": 360,
+                        "y": 395
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 300,
+                        "y": 1825
                     }
                 ]
             },
@@ -53,6 +73,16 @@
                         "map": "castle",
                         "x": 117,
                         "y": 1441
+                    },
+                    {
+                        "map": "corridor",
+                        "x": 114,
+                        "y": 400
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 105,
+                        "y": 1825
                     }
                 ]
             },
@@ -70,6 +100,16 @@
                         "map": "castle",
                         "x": 1253,
                         "y": 1585
+                    },
+                    {
+                        "map": "corridor",
+                        "x": 1248,
+                        "y": 539
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 1033,
+                        "y": 1945
                     }
                 ]
             },
@@ -87,6 +127,16 @@
                         "map": "castle",
                         "x": 1141,
                         "y": 1665
+                    },
+                    {
+                        "map": "corridor",
+                        "x": 1134,
+                        "y": 612
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 945,
+                        "y": 2000
                     }
                 ]
             },
@@ -104,6 +154,16 @@
                         "map": "castle",
                         "x": 1577,
                         "y": 1649
+                    },
+                    {
+                        "map": "corridor",
+                        "x": 1577,
+                        "y": 636
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 1313,
+                        "y": 2000
                     }
                 ]
             },
@@ -129,6 +189,16 @@
                         "map": "castle",
                         "x": 593,
                         "y": 1645
+                    },
+                    {
+                        "map": "corridor",
+                        "x": 598,
+                        "y": 576
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 500,
+                        "y": 1970
                     }
                 ]
             },
@@ -146,6 +216,16 @@
                         "map": "castle",
                         "x": 1285,
                         "y": 1253
+                    },
+                    {
+                        "map": "corridor",
+                        "x": 1296,
+                        "y": 200
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 1077,
+                        "y": 1641
                     }
                 ]
             },
@@ -168,6 +248,16 @@
                         "map": "castle",
                         "x": 1441,
                         "y": 1197
+                    },
+                    {
+                        "map": "corridor",
+                        "x": 1440,
+                        "y": 145
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 1193,
+                        "y": 1613
                     }
                 ]
             },
@@ -185,6 +275,16 @@
                         "map": "castle",
                         "x": 905,
                         "y": 1485
+                    },
+                    {
+                        "map": "corridor",
+                        "x": 906,
+                        "y": 439
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 769,
+                        "y": 1881
                     }
                 ]
             },
@@ -203,6 +303,16 @@
                         "map": "castle",
                         "x": 2025,
                         "y": 1173
+                    },
+                    {
+                        "map": "corridor",
+                        "x": 2034,
+                        "y": 117
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 1673,
+                        "y": 1577
                     }
                 ]
             },
@@ -212,7 +322,7 @@
                 "sections": [
                     {
                         "name": "flying armor jump <3",
-                        "access_rules": [ "djump", "bat", "hyppogriph", "backdash,flyingarmor", "blackp", "[],flyingarmor" ],
+                        "access_rules": [ "djump", "bat", "hyppogriph", "backdash,flyingarmor", "blackp", "[djump],flyingarmor" ],
                         "item_count": 1
                     }
                 ],
@@ -221,6 +331,16 @@
                         "map": "castle",
                         "x": 2025,
                         "y": 1100
+                    },
+                    {
+                        "map": "corridor",
+                        "x": 2025,
+                        "y": 45
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 1673,
+                        "y": 1525
                     }
                 ]
             },
@@ -239,6 +359,16 @@
                         "map": "castle",
                         "x": 1821,
                         "y": 1100
+                    },
+                    {
+                        "map": "corridor",
+                        "x": 1822,
+                        "y": 45
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 1537,
+                        "y": 1525
                     }
                 ]
             },
@@ -263,6 +393,16 @@
                         "map": "castle",
                         "x": 1793,
                         "y": 1100
+                    },
+                    {
+                        "map": "corridor",
+                        "x": 1795,
+                        "y": 45
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 1489,
+                        "y": 1525
                     }
                 ]
             },
@@ -281,6 +421,16 @@
                         "map": "castle",
                         "x": 2889,
                         "y": 1229
+                    },
+                    {
+                        "map": "corridor",
+                        "x": 2880,
+                        "y": 174
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 2393,
+                        "y": 1637
                     }
                 ]
             },
@@ -299,6 +449,16 @@
                         "map": "castle",
                         "x": 2921,
                         "y": 1393
+                    },
+                    {
+                        "map": "corridor",
+                        "x": 2926,
+                        "y": 344
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 2393,
+                        "y": 1761
                     }
                 ]
             },
@@ -317,6 +477,16 @@
                         "map": "castle",
                         "x": 2469,
                         "y": 1393
+                    },
+                    {
+                        "map": "corridor",
+                        "x": 2455,
+                        "y": 344
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 2033,
+                        "y": 1761
                     }
                 ]
             }
@@ -341,6 +511,16 @@
                         "map": "castle",
                         "x": 401,
                         "y": 1737
+                    },
+                    {
+                        "map": "reservoir",
+                        "x": 45,
+                        "y": 235
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 349,
+                        "y": 2061
                     }
                 ]
             },
@@ -358,6 +538,16 @@
                         "map": "castle",
                         "x": 1073,
                         "y": 1845
+                    },
+                    {
+                        "map": "reservoir",
+                        "x": 723,
+                        "y": 337
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 897,
+                        "y": 2181
                     }
                 ]
             },
@@ -375,6 +565,16 @@
                         "map": "castle",
                         "x": 921,
                         "y": 1689
+                    },
+                    {
+                        "map": "reservoir",
+                        "x": 555,
+                        "y": 187
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 773,
+                        "y": 1997
                     }
                 ]
             },
@@ -392,6 +592,16 @@
                         "map": "castle",
                         "x": 1477,
                         "y": 1861
+                    },
+                    {
+                        "map": "reservoir",
+                        "x": 1103,
+                        "y": 355
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 1245,
+                        "y": 2185
                     }
                 ]
             },
@@ -409,14 +619,25 @@
                         "map": "castle",
                         "x": 1902,
                         "y": 1649
+                    },
+                    {
+                        "map": "reservoir",
+                        "x": 1547,
+                        "y": 149
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 1561,
+                        "y": 2005
                     }
+
                 ]
             },
             {
                 "name": "Underground reservoir",
                 "sections": [
                     {
-                        "name": "Above the waterfall",
+                        "name": "Above Triton and waterfall",
                         "access_rules": [ "djump,skula" ],
                         "item_count": 1
                     }
@@ -426,6 +647,16 @@
                         "map": "castle",
                         "x": 2281,
                         "y": 1761
+                    },
+                    {
+                        "map": "reservoir",
+                        "x": 1937,
+                        "y": 251
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 1869,
+                        "y": 2081
                     }
                 ]
             },
@@ -443,6 +674,16 @@
                         "map": "castle",
                         "x": 2249,
                         "y": 1581
+                    },
+                    {
+                        "map": "reservoir",
+                        "x": 1883,
+                        "y": 73
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 1845,
+                        "y": 1945
                     }
                 ]
             },
@@ -460,6 +701,16 @@
                         "map": "castle",
                         "x": 2561,
                         "y": 1553
+                    },
+                    {
+                        "map": "reservoir",
+                        "x": 2211,
+                        "y": 53
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 2089,
+                        "y": 1881
                     }
                 ]
             },
@@ -477,6 +728,16 @@
                         "map": "castle",
                         "x": 2781,
                         "y": 1649
+                    },
+                    {
+                        "map": "reservoir",
+                        "x": 2423,
+                        "y": 141
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 2273,
+                        "y": 2001
                     }
                 ]
             },
@@ -494,6 +755,16 @@
                         "map": "castle",
                         "x": 2473,
                         "y": 1693
+                    },
+                    {
+                        "map": "reservoir",
+                        "x": 2105,
+                        "y": 177
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 2033,
+                        "y": 2053
                     }
                 ]
             },
@@ -511,6 +782,16 @@
                         "map": "castle",
                         "x": 2181,
                         "y": 1849
+                    },
+                    {
+                        "map": "reservoir",
+                        "x": 1815,
+                        "y": 343
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 1793,
+                        "y": 2177
                     }
                 ]
             },
@@ -528,6 +809,16 @@
                         "map": "castle",
                         "x": 2293,
                         "y": 1813
+                    },
+                    {
+                        "map": "reservoir",
+                        "x": 1939,
+                        "y": 313
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 1905,
+                        "y": 2125
                     }
                 ]
             },
@@ -545,6 +836,16 @@
                         "map": "castle",
                         "x": 2345,
                         "y": 1857
+                    },
+                    {
+                        "map": "reservoir",
+                        "x": 1997,
+                        "y": 355
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 1937,
+                        "y": 2181
                     }
                 ]
             },
@@ -562,6 +863,16 @@
                         "map": "castle",
                         "x": 2405,
                         "y": 1997
+                    },
+                    {
+                        "map": "reservoir",
+                        "x": 2063,
+                        "y": 497
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 1977,
+                        "y": 2301
                     }
                 ]
             },
@@ -579,23 +890,16 @@
                         "map": "castle",
                         "x": 2713,
                         "y": 1917
-                    }
-                ]
-            },
-            {
-                "name": "Underground reservoir",
-                "sections": [
+                    },
                     {
-                        "name": "Triton and demon room",
-                        "access_rules": [ "djump,skula" ],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
+                        "map": "reservoir",
+                        "x": 2355,
+                        "y": 423
+                    },
                     {
-                        "map": "castle",
-                        "x": 3040,
-                        "y": 2350
+                        "map": "ingame",
+                        "x": 2217,
+                        "y": 2245
                     }
                 ]
             },
@@ -613,6 +917,16 @@
                         "map": "castle",
                         "x": 1153,
                         "y": 2513
+                    },
+                    {
+                        "map": "reservoir",
+                        "x": 777,
+                        "y": 1000
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 949,
+                        "y": 2725
                     }
                 ]
             },
@@ -630,6 +944,16 @@
                         "map": "castle",
                         "x": 2205,
                         "y": 2297
+                    },
+                    {
+                        "map": "reservoir",
+                        "x": 1841,
+                        "y": 795
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 1797,
+                        "y": 2545
                     }
                 ]
             },
@@ -638,7 +962,7 @@
                 "sections": [
                     {
                         "name": "Ceiling of Triton's room",
-                        "access_rules": [ "{djump,skula}","djump,skula,slide","djump,skula,bat" ],
+                        "access_rules": [ "{djump,skula}", "djump,skula,slide", "djump,skula,bat" ],
                         "item_count": 1
                     }
                 ],
@@ -647,6 +971,16 @@
                         "map": "castle",
                         "x": 1389,
                         "y": 2277
+                    },
+                    {
+                        "map": "reservoir",
+                        "x": 1043,
+                        "y": 773
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 1133,
+                        "y": 2541
                     }
                 ]
             },
@@ -654,7 +988,7 @@
                 "name": "Underground reservoir",
                 "sections": [
                     {
-                        "name": "lots of needles",
+                        "name": "Lots of needles",
                         "access_rules": [ "djump,skula" ],
                         "item_count": 1
                     }
@@ -664,6 +998,16 @@
                         "map": "castle",
                         "x": 1169,
                         "y": 2361
+                    },
+                    {
+                        "map": "reservoir",
+                        "x": 821,
+                        "y": 853
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 949,
+                        "y": 2600
                     }
                 ]
             },
@@ -681,6 +1025,16 @@
                         "map": "castle",
                         "x": 1133,
                         "y": 1729
+                    },
+                    {
+                        "map": "reservoir",
+                        "x": 783,
+                        "y": 221
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 945,
+                        "y": 2073
                     }
                 ]
             }
@@ -705,6 +1059,16 @@
                         "map": "castle",
                         "x": 3197,
                         "y": 1257
+                    },
+                    {
+                        "map": "chapel",
+                        "x": 251,
+                        "y": 239
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 2637,
+                        "y": 1605
                     }
                 ]
             },
@@ -722,6 +1086,16 @@
                         "map": "castle",
                         "x": 3249,
                         "y": 1193
+                    },
+                    {
+                        "map": "chapel",
+                        "x": 251,
+                        "y": 239
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 2637,
+                        "y": 1605
                     }
                 ]
             },
@@ -739,6 +1113,16 @@
                         "map": "castle",
                         "x": 3197,
                         "y": 1049
+                    },
+                    {
+                        "map": "chapel",
+                        "x": 251,
+                        "y": 34
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 2635,
+                        "y": 1453
                     }
                 ]
             },
@@ -756,6 +1140,16 @@
                         "map": "castle",
                         "x": 3385,
                         "y": 1057
+                    },
+                    {
+                        "map": "chapel",
+                        "x": 443,
+                        "y": 34
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 2802,
+                        "y": 1453
                     }
                 ]
             },
@@ -773,6 +1167,16 @@
                         "map": "castle",
                         "x": 3649,
                         "y": 1321
+                    },
+                    {
+                        "map": "chapel",
+                        "x": 708,
+                        "y": 306
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 2990,
+                        "y": 1705
                     }
                 ]
             },
@@ -781,7 +1185,7 @@
                 "sections": [
                     {
                         "name": "Upper part left longjump",
-                        "access_rules": [ "{djump},blackp", "bat", "hyppogriph", "{flyingarmor},djump", "{flyingarmor}", "{djump}","djump,backdash" ],
+                        "access_rules": [ "{djump},blackp", "bat", "hyppogriph", "{flyingarmor},djump", "{flyingarmor}", "{djump}", "djump,backdash" ],
                         "item_count": 1
                     }
                 ],
@@ -790,6 +1194,16 @@
                         "map": "castle",
                         "x": 3257,
                         "y": 1045
+                    },
+                    {
+                        "map": "chapel",
+                        "x": 310,
+                        "y": 34
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 2686,
+                        "y": 1453
                     }
                 ]
             },
@@ -807,6 +1221,16 @@
                         "map": "castle",
                         "x": 3509,
                         "y": 1513
+                    },
+                    {
+                        "map": "chapel",
+                        "x": 577,
+                        "y": 495
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 2874,
+                        "y": 1882
                     }
                 ]
             },
@@ -824,6 +1248,16 @@
                         "map": "castle",
                         "x": 3509,
                         "y": 1469
+                    },
+                    {
+                        "map": "chapel",
+                        "x": 577,
+                        "y": 446
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 2874,
+                        "y": 1822
                     }
                 ]
             },
@@ -841,6 +1275,16 @@
                         "map": "castle",
                         "x": 3101,
                         "y": 1441
+                    },
+                    {
+                        "map": "chapel",
+                        "x": 164,
+                        "y": 419
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 2571,
+                        "y": 1822
                     }
                 ]
             },
@@ -848,7 +1292,7 @@
                 "name": "Manticore Chapel",
                 "sections": [
                     {
-                        "name": "Vanilla Book location",
+                        "name": "Vanilla Blue Book",
                         "access_rules": [ "bat", "hyppogriph", "[],blackp,djump" ],
                         "item_count": 1
                     }
@@ -858,6 +1302,16 @@
                         "map": "castle",
                         "x": 3425,
                         "y": 1369
+                    },
+                    {
+                        "map": "chapel",
+                        "x": 493,
+                        "y": 344
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 2820,
+                        "y": 1760
                     }
                 ]
             },
@@ -870,7 +1324,7 @@
                             "djump",
                             "hyppogriph",
                             "bat",
-                            "djump,blackp" 
+                            "djump,blackp"
                         ],
                         "item_count": 1
                     }
@@ -880,6 +1334,16 @@
                         "map": "castle",
                         "x": 3269,
                         "y": 1377
+                    },
+                    {
+                        "map": "chapel",
+                        "x": 334,
+                        "y": 360
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 2770,
+                        "y": 1760
                     }
                 ]
             },
@@ -897,6 +1361,16 @@
                         "map": "castle",
                         "x": 3625,
                         "y": 1217
+                    },
+                    {
+                        "map": "chapel",
+                        "x": 695,
+                        "y": 205
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 2990,
+                        "y": 1580
                     }
                 ]
             }
@@ -921,6 +1395,16 @@
                         "map": "castle",
                         "x": 3249,
                         "y": 1737
+                    },
+                    {
+                        "map": "study",
+                        "x": 390,
+                        "y": 114
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 2695,
+                        "y": 2067
                     }
                 ]
             },
@@ -938,6 +1422,16 @@
                         "map": "castle",
                         "x": 3497,
                         "y": 1665
+                    },
+                    {
+                        "map": "study",
+                        "x": 624,
+                        "y": 47
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 2873,
+                        "y": 2001
                     }
                 ]
             },
@@ -955,7 +1449,18 @@
                         "map": "castle",
                         "x": 3125,
                         "y": 1773
+                    },
+                    {
+                        "map": "study",
+                        "x": 260,
+                        "y": 168
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 2574,
+                        "y": 2129
                     }
+
                 ]
             },
             {
@@ -972,6 +1477,16 @@
                         "map": "castle",
                         "x": 3485,
                         "y": 1773
+                    },
+                    {
+                        "map": "study",
+                        "x": 612,
+                        "y": 106
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 2873,
+                        "y": 2066
                     }
                 ]
             },
@@ -989,6 +1504,16 @@
                         "map": "castle",
                         "x": 3573,
                         "y": 1821
+                    },
+                    {
+                        "map": "study",
+                        "x": 714,
+                        "y": 198
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 2937,
+                        "y": 2157
                     }
                 ]
             },
@@ -1006,6 +1531,16 @@
                         "map": "castle",
                         "x": 2905,
                         "y": 1777
+                    },
+                    {
+                        "map": "study",
+                        "x": 17,
+                        "y": 151
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 2393,
+                        "y": 2129
                     }
                 ]
             },
@@ -1023,6 +1558,16 @@
                         "map": "castle",
                         "x": 3069,
                         "y": 1773
+                    },
+                    {
+                        "map": "study",
+                        "x": 206,
+                        "y": 154
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 2516,
+                        "y": 2129
                     }
                 ]
             },
@@ -1040,6 +1585,16 @@
                         "map": "castle",
                         "x": 2981,
                         "y": 1973
+                    },
+                    {
+                        "map": "study",
+                        "x": 128,
+                        "y": 343
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 2462,
+                        "y": 2306
                     }
                 ]
             },
@@ -1057,6 +1612,16 @@
                         "map": "castle",
                         "x": 3125,
                         "y": 1973
+                    },
+                    {
+                        "map": "study",
+                        "x": 236,
+                        "y": 343
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 2573,
+                        "y": 2301
                     }
                 ]
             },
@@ -1065,7 +1630,7 @@
                 "sections": [
                     {
                         "name": "Skull door",
-                        "access_rules": [ "[djump],backdash", "[bat],backdash", "[hyppogriph],backdash", "[flyingarmor],backdash", "[blackp],backdash" ],
+                        "access_rules": [ "djump,[backdash]", "bat,[backdash]", "[backdash],hyppogriph", "[backdash],flyingarmor", "[backdash],blackp" ],
                         "item_count": 1
                     }
                 ],
@@ -1074,6 +1639,16 @@
                         "map": "castle",
                         "x": 3481,
                         "y": 1925
+                    },
+                    {
+                        "map": "study",
+                        "x": 595,
+                        "y": 304
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 2873,
+                        "y": 2251
                     }
                 ]
             },
@@ -1091,6 +1666,16 @@
                         "map": "castle",
                         "x": 3405,
                         "y": 1901
+                    },
+                    {
+                        "map": "study",
+                        "x": 546,
+                        "y": 288
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 2813,
+                        "y": 2245
                     }
                 ]
             }
@@ -1106,7 +1691,7 @@
                 "sections": [
                     {
                         "name": "Small alcove",
-                        "access_rules": [ "{djump,flyingarmor}", "bat", "hyppogriph,slide", "{blackp,djump}", "blackp,djump,slide", "djump,flyingarmor,slide" ],
+                        "access_rules": [ "{djump,flyingarmor}", "bat", "{hyppogriph},slide", "{blackp,djump}", "{blackp,djump},slide", "{djump,flyingarmor},slide" ],
                         "item_count": 1
                     }
                 ],
@@ -1115,6 +1700,16 @@
                         "map": "castle",
                         "x": 460,
                         "y": 1157
+                    },
+                    {
+                        "map": "dancehall",
+                        "x": 237,
+                        "y": 351
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 410,
+                        "y": 1554
                     }
                 ]
             },
@@ -1133,6 +1728,16 @@
                         "map": "castle",
                         "x": 488,
                         "y": 1419
+                    },
+                    {
+                        "map": "dancehall",
+                        "x": 253,
+                        "y": 614
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 410,
+                        "y": 1823
                     }
                 ]
             },
@@ -1150,6 +1755,17 @@
                         "map": "castle",
                         "x": 345,
                         "y": 1058
+                    },
+
+                    {
+                        "map": "dancehall",
+                        "x": 110,
+                        "y": 253
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 293,
+                        "y": 1464
                     }
                 ]
             },
@@ -1167,6 +1783,17 @@
                         "map": "castle",
                         "x": 400,
                         "y": 968
+                    },
+
+                    {
+                        "map": "dancehall",
+                        "x": 164,
+                        "y": 160
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 351,
+                        "y": 1348
                     }
                 ]
             },
@@ -1184,6 +1811,17 @@
                         "map": "castle",
                         "x": 630,
                         "y": 962
+                    },
+
+                    {
+                        "map": "dancehall",
+                        "x": 418,
+                        "y": 160
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 532,
+                        "y": 1348
                     }
                 ]
             },
@@ -1201,6 +1839,17 @@
                         "map": "castle",
                         "x": 523,
                         "y": 871
+                    },
+
+                    {
+                        "map": "dancehall",
+                        "x": 283,
+                        "y": 70
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 446,
+                        "y": 1269
                     }
                 ]
             },
@@ -1218,6 +1867,17 @@
                         "map": "castle",
                         "x": 909,
                         "y": 1060
+                    },
+
+                    {
+                        "map": "dancehall",
+                        "x": 672,
+                        "y": 253
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 779,
+                        "y": 1468
                     }
                 ]
             },
@@ -1235,6 +1895,17 @@
                         "map": "castle",
                         "x": 539,
                         "y": 1297
+                    },
+
+                    {
+                        "map": "dancehall",
+                        "x": 311,
+                        "y": 496
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 478,
+                        "y": 1708
                     }
                 ]
             },
@@ -1244,7 +1915,7 @@
                 "sections": [
                     {
                         "name": "Small alcove",
-                        "access_rules": [ "{djump,flyingarmor}", "bat", "hyppogriph,slide", "{blackp,djump}", "blackp,djump,slide", "djump,flyingarmor,slide" ],
+                        "access_rules": [ "{djump,flyingarmor}", "bat", "{hyppogriph},slide", "{blackp,djump}", "blackp,djump,slide", "djump,flyingarmor,slide" ],
                         "item_count": 1
                     }
                 ],
@@ -1253,6 +1924,17 @@
                         "map": "castle",
                         "x": 508,
                         "y": 1305
+                    },
+
+                    {
+                        "map": "dancehall",
+                        "x": 276,
+                        "y": 495
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 422,
+                        "y": 1708
                     }
                 ]
             }
@@ -1274,8 +1956,18 @@
                 "map_locations": [
                     {
                         "map": "castle",
-                        "x": 2600,
-                        "y": 1970
+                        "x": 1970,
+                        "y": 1480
+                    },
+                    {
+                        "map": "floating",
+                        "x": 458,
+                        "y": 554
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 1629,
+                        "y": 1825
                     }
                 ]
             },
@@ -1293,6 +1985,16 @@
                         "map": "castle",
                         "x": 429,
                         "y": 389
+                    },
+                    {
+                        "map": "floating",
+                        "x": 458,
+                        "y": 138
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 349,
+                        "y": 933
                     }
                 ]
             },
@@ -1310,6 +2012,16 @@
                         "map": "castle",
                         "x": 625,
                         "y": 377
+                    },
+                    {
+                        "map": "floating",
+                        "x": 601,
+                        "y": 139
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 533,
+                        "y": 933
                     }
                 ]
             },
@@ -1327,6 +2039,16 @@
                         "map": "castle",
                         "x": 3177,
                         "y": 569
+                    },
+                    {
+                        "map": "floating",
+                        "x": 1332,
+                        "y": 441
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 2573,
+                        "y": 1033
                     }
                 ]
             },
@@ -1344,7 +2066,18 @@
                         "map": "castle",
                         "x": 3517,
                         "y": 705
+                    },
+                    {
+                        "map": "floating",
+                        "x": 1332,
+                        "y": 115
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 2865,
+                        "y": 1217
                     }
+
                 ]
             },
             {
@@ -1361,6 +2094,16 @@
                         "map": "castle",
                         "x": 1005,
                         "y": 173
+                    },
+                    {
+                        "map": "floating",
+                        "x": 917,
+                        "y": 452
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 821,
+                        "y": 789
                     }
                 ]
             }
@@ -1385,6 +2128,16 @@
                         "map": "castle",
                         "x": 1193,
                         "y": 781
+                    },
+                    {
+                        "map": "inner",
+                        "x": 329,
+                        "y": 617
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 945,
+                        "y": 1469
                     }
                 ]
             },
@@ -1403,6 +2156,16 @@
                         "map": "castle",
                         "x": 1281,
                         "y": 1065
+                    },
+                    {
+                        "map": "inner",
+                        "x": 514,
+                        "y": 690
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 1077,
+                        "y": 1517
                     }
                 ]
             },
@@ -1421,6 +2184,16 @@
                         "map": "castle",
                         "x": 1197,
                         "y": 1065
+                    },
+                    {
+                        "map": "inner",
+                        "x": 393,
+                        "y": 682
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 1013,
+                        "y": 1517
                     }
                 ]
             },
@@ -1439,6 +2212,16 @@
                         "map": "castle",
                         "x": 1425,
                         "y": 473
+                    },
+                    {
+                        "map": "inner",
+                        "x": 633,
+                        "y": 79
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 1189,
+                        "y": 977
                     }
                 ]
             },
@@ -1448,7 +2231,7 @@
                 "sections": [
                     {
                         "name": "Lilith room",
-                        "access_rules": [ "djump,flyingarmor", "bat", "hyppogriph,slide", "blackp,djump" ],
+                        "access_rules": [ "djump,flyingarmor", "bat", "hyppogriph", "blackp,djump" ],
                         "item_count": 1
                     }
                 ],
@@ -1457,6 +2240,16 @@
                         "map": "castle",
                         "x": 1649,
                         "y": 1041
+                    },
+                    {
+                        "map": "inner",
+                        "x": 856,
+                        "y": 661
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 1377,
+                        "y": 1517
                     }
                 ]
             },
@@ -1466,7 +2259,7 @@
                 "sections": [
                     {
                         "name": "Galamoth locked",
-                        "access_rules": [ "djump,flyingarmor,galamoth", "bat,galamoth", "hyppogriph,slide,galamoth", "blackp,djump,galamoth" ],
+                        "access_rules": [ "djump,flyingarmor,galamoth", "bat,galamoth", "hyppogriph,galamoth", "blackp,djump,galamoth" ],
                         "item_count": 2
                     }
                 ],
@@ -1475,6 +2268,16 @@
                         "map": "castle",
                         "x": 957,
                         "y": 761
+                    },
+                    {
+                        "map": "inner",
+                        "x": 169,
+                        "y": 373
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 813,
+                        "y": 1221
                     }
                 ]
             }
@@ -1489,7 +2292,7 @@
                 "sections": [
                     {
                         "name": "Max Potion",
-                        "access_rules": [ "bat","hyppogriph" ],
+                        "access_rules": [ "bat", "hyppogriph" ],
                         "item_count": 1
                     }
                 ],
@@ -1498,6 +2301,16 @@
                         "map": "castle",
                         "x": 2321,
                         "y": 953
+                    },
+                    {
+                        "map": "topfloor",
+                        "x": 582,
+                        "y": 726
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 1913,
+                        "y": 1401
                     }
                 ]
             },
@@ -1507,7 +2320,7 @@
                 "sections": [
                     {
                         "name": "Satan ring",
-                        "access_rules": [ "bat","hyppogriph" ],
+                        "access_rules": [ "bat", "hyppogriph" ],
                         "item_count": 1
                     }
                 ],
@@ -1516,6 +2329,16 @@
                         "map": "castle",
                         "x": 2029,
                         "y": 873
+                    },
+                    {
+                        "map": "topfloor",
+                        "x": 309,
+                        "y": 569
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 1669,
+                        "y": 1341
                     }
                 ]
             },
@@ -1525,7 +2348,7 @@
                 "sections": [
                     {
                         "name": "Top Floor secret",
-                        "access_rules": [ "bat","hyppogriph" ],
+                        "access_rules": [ "bat", "hyppogriph" ],
                         "item_count": 1
                     }
                 ],
@@ -1534,6 +2357,16 @@
                         "map": "castle",
                         "x": 1805,
                         "y": 765
+                    },
+                    {
+                        "map": "topfloor",
+                        "x": 70,
+                        "y": 511
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 1485,
+                        "y": 1221
                     }
                 ]
             },
@@ -1543,7 +2376,7 @@
                 "sections": [
                     {
                         "name": "Hyppogriph",
-                        "access_rules": [ "bat","hyppogriph" ],
+                        "access_rules": [ "bat", "hyppogriph" ],
                         "item_count": 1
                     }
                 ],
@@ -1552,6 +2385,16 @@
                         "map": "castle",
                         "x": 2021,
                         "y": 729
+                    },
+                    {
+                        "map": "topfloor",
+                        "x": 297,
+                        "y": 494
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 1677,
+                        "y": 1221
                     }
                 ]
             },
@@ -1561,7 +2404,7 @@
                 "sections": [
                     {
                         "name": "Mana prism",
-                        "access_rules": [ "bat","hyppogriph" ],
+                        "access_rules": [ "bat", "hyppogriph" ],
                         "item_count": 1
                     }
                 ],
@@ -1570,6 +2413,16 @@
                         "map": "castle",
                         "x": 2161,
                         "y": 385
+                    },
+                    {
+                        "map": "topfloor",
+                        "x": 449,
+                        "y": 155
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 1793,
+                        "y": 921
                     }
                 ]
             },
@@ -1579,7 +2432,7 @@
                 "sections": [
                     {
                         "name": "Kaladbolg",
-                        "access_rules": [ "hyppogriph","bat" ],
+                        "access_rules": [ "hyppogriph", "bat" ],
                         "item_count": 1
                     }
                 ],
@@ -1588,6 +2441,16 @@
                         "map": "castle",
                         "x": 1785,
                         "y": 457
+                    },
+                    {
+                        "map": "topfloor",
+                        "x": 52,
+                        "y": 220
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 1489,
+                        "y": 1000
                     }
                 ]
             },
@@ -1597,7 +2460,7 @@
                 "sections": [
                     {
                         "name": "Under the stairs",
-                        "access_rules": [ "hyppogriph","bat" ],
+                        "access_rules": [ "hyppogriph", "bat" ],
                         "item_count": 1
                     }
                 ],
@@ -1606,6 +2469,44 @@
                         "map": "castle",
                         "x": 1785,
                         "y": 385
+                    },
+                    {
+                        "map": "topfloor",
+                        "x": 52,
+                        "y": 162
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 1489,
+                        "y": 917
+                    }
+                ]
+            },
+            {
+
+                "name": "Top Floor",
+                "sections": [
+                    {
+                        "name": "Graham Reward",
+                        "access_rules": [ "hyppogriph,graham", "bat,graham" ],
+                        "item_count": 2
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle",
+                        "x": 1785,
+                        "y": 314
+                    },
+                    {
+                        "map": "topfloor",
+                        "x": 47,
+                        "y": 87
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 1489,
+                        "y": 865
                     }
                 ]
             }
@@ -1621,7 +2522,7 @@
                 "sections": [
                     {
                         "name": "Eversing",
-                        "access_rules": [ "skula,djump,undine,rush","skula,djump,{}" ],
+                        "access_rules": [ "skula,djump,undine,rush", "skula,djump,{}" ],
                         "item_count": 1
                     }
                 ],
@@ -1630,6 +2531,16 @@
                         "map": "castle",
                         "x": 2341,
                         "y": 2153
+                    },
+                    {
+                        "map": "reservoir",
+                        "x": 1986,
+                        "y": 645
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 1937,
+                        "y": 2417
                     }
                 ]
             },
@@ -1648,6 +2559,16 @@
                         "map": "castle",
                         "x": 2837,
                         "y": 2321
+                    },
+                    {
+                        "map": "forbidden",
+                        "x": 420,
+                        "y": 354
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 2337,
+                        "y": 2597
                     }
                 ]
             },
@@ -1666,6 +2587,16 @@
                         "map": "castle",
                         "x": 3137,
                         "y": 2257
+                    },
+                    {
+                        "map": "forbidden",
+                        "x": 672,
+                        "y": 308
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 2569,
+                        "y": 2545
                     }
                 ]
             }
@@ -1679,7 +2610,7 @@
                 "name": "Clock Tower",
                 "sections": [
                     {
-                        "name": "Mystelain",
+                        "name": "Mystletain",
                         "access_rules": [ "undine,djump", "[],djump", "bat", "hyppogriph" ],
                         "item_count": 1
                     }
@@ -1689,6 +2620,16 @@
                         "map": "castle",
                         "x": 2481,
                         "y": 901
+                    },
+                    {
+                        "map": "clock",
+                        "x": 99,
+                        "y": 481
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 2037,
+                        "y": 1341
                     }
                 ]
             },
@@ -1706,6 +2647,16 @@
                         "map": "castle",
                         "x": 2541,
                         "y": 489
+                    },
+                    {
+                        "map": "clock",
+                        "x": 161,
+                        "y": 65
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 2093,
+                        "y": 985
                     }
                 ]
             },
@@ -1717,12 +2668,23 @@
                         "access_rules": [ "undine,djump,skula", "[],djump,skula", "bat,skula", "hyppogriph,skula" ],
                         "item_count": 1
                     }
+
                 ],
                 "map_locations": [
                     {
                         "map": "castle",
                         "x": 2765,
                         "y": 1017
+                    },
+                    {
+                        "map": "clock",
+                        "x": 398,
+                        "y": 592
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 2265,
+                        "y": 1457
                     }
                 ]
             },
@@ -1740,6 +2702,16 @@
                         "map": "castle",
                         "x": 2453,
                         "y": 1177
+                    },
+                    {
+                        "map": "clock",
+                        "x": 74,
+                        "y": 758
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 2033,
+                        "y": 1589
                     }
                 ]
             },
@@ -1757,6 +2729,16 @@
                         "map": "castle",
                         "x": 2707,
                         "y": 689
+                    },
+                    {
+                        "map": "clock",
+                        "x": 329,
+                        "y": 270
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 2217,
+                        "y": 1165
                     }
                 ]
             }
@@ -1781,7 +2763,18 @@
                         "map": "castle",
                         "x": 1429,
                         "y": 2456
+                    },
+                    {
+                        "map": "reservoir",
+                        "x": 1070,
+                        "y": 938
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 1189,
+                        "y": 2665
                     }
+
                 ]
             },
             {
@@ -1799,6 +2792,16 @@
                         "map": "castle",
                         "x": 2025,
                         "y": 2454
+                    },
+                    {
+                        "map": "reservoir",
+                        "x": 1667,
+                        "y": 937
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 1673,
+                        "y": 2665
                     }
                 ]
             },
@@ -1817,6 +2820,16 @@
                         "map": "castle",
                         "x": 2411,
                         "y": 2448
+                    },
+                    {
+                        "map": "reservoir",
+                        "x": 2057,
+                        "y": 939
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 1997,
+                        "y": 2665
                     }
                 ]
             },
@@ -1835,6 +2848,16 @@
                         "map": "castle",
                         "x": 2477,
                         "y": 2520
+                    },
+                    {
+                        "map": "reservoir",
+                        "x": 2117,
+                        "y": 1007
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 2037,
+                        "y": 2725
                     }
                 ]
             }
@@ -1859,6 +2882,16 @@
                         "map": "castle",
                         "x": 821,
                         "y": 1914
+                    },
+                    {
+                        "map": "arena",
+                        "x": 752,
+                        "y": 95
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 653,
+                        "y": 2185
                     }
                 ]
             },
@@ -1877,6 +2910,16 @@
                         "map": "castle",
                         "x": 735,
                         "y": 2160
+                    },
+                    {
+                        "map": "arena",
+                        "x": 671,
+                        "y": 337
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 593,
+                        "y": 2421
                     }
                 ]
             },
@@ -1895,6 +2938,16 @@
                         "map": "castle",
                         "x": 733,
                         "y": 2226
+                    },
+                    {
+                        "map": "arena",
+                        "x": 671,
+                        "y": 407
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 593,
+                        "y": 2481
                     }
                 ]
             },
@@ -1913,6 +2966,16 @@
                         "map": "castle",
                         "x": 137,
                         "y": 2304
+                    },
+                    {
+                        "map": "arena",
+                        "x": 57,
+                        "y": 478
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 113,
+                        "y": 2541
                     }
                 ]
             },
@@ -1922,8 +2985,8 @@
                 "sections": [
                     {
                         "name": "Black Cloak",
-                        "access_rules": [ "skula,djump" ],
-                        // "access_rules": [ "skula,djump,[],blackp","skula,djump,hyppogriph","skula,djump,bat" ],
+                        //"access_rules": [ "skula,djump" ],
+                        "access_rules": [ "skula,djump,[],blackp", "skula,djump,hyppogriph", "skula,djump,bat" ],
                         "item_count": 1
                     }
                 ],
@@ -1932,6 +2995,16 @@
                         "map": "castle",
                         "x": 447,
                         "y": 2064
+                    },
+                    {
+                        "map": "arena",
+                        "x": 379,
+                        "y": 243
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 353,
+                        "y": 2301
                     }
                 ]
             },
@@ -1950,7 +3023,16 @@
                         "map": "castle",
                         "x": 671,
                         "y": 1910
-
+                    },
+                    {
+                        "map": "arena",
+                        "x": 603,
+                        "y": 95
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 533,
+                        "y": 2185
                     }
                 ]
             },
@@ -1969,6 +3051,16 @@
                         "map": "castle",
                         "x": 379,
                         "y": 1988
+                    },
+                    {
+                        "map": "arena",
+                        "x": 306,
+                        "y": 169
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 305,
+                        "y": 2241
                     }
                 ]
             },
@@ -1978,7 +3070,7 @@
                 "sections": [
                     {
                         "name": "Show me your moves",
-                        "access_rules": [ "skula,djump","bat" ],
+                        "access_rules": [ "skula,djump", "bat" ],
                         "item_count": 1
                     }
                 ],
@@ -1987,13 +3079,92 @@
                         "map": "castle",
                         "x": 737,
                         "y": 2298
+                    },
+                    {
+                        "map": "arena",
+                        "x": 675,
+                        "y": 481
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 598,
+                        "y": 2541
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Chaotic Realm",
+        "color": "#000000",
+        "children": [
+            {
+                "name": "You are in GO mode",
+                "sections": [
+                    {
+                        "name": "This can be skula",
+                        "access_rules": [ "graham" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Chaotic Realm",
+                        "x": 1068,
+                        "y": 624
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 693,
+                        "y": 437
+                    }
+                ]
+            },
+            {
+                "name": "You are in GO mode",
+                "sections": [
+                    {
+                        "name": "This is not Claimh",
+                        "access_rules": [ "graham" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Chaotic Realm",
+                        "x": 827,
+                        "y": 586
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 553,
+                        "y": 437
+                    }
+                ]
+            },
+            {
+
+                "name": "You are in GO mode",
+                "sections": [
+                    {
+                        "name": "This is still not Claimh",
+                        "access_rules": [ "graham" ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Chaotic Realm",
+                        "x": 1072,
+                        "y": 203
+                    },
+                    {
+                        "map": "ingame",
+                        "x": 693,
+                        "y": 225
                     }
                 ]
             }
         ]
     }
-
-
 ]
-      
-    
