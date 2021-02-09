@@ -2,8 +2,14 @@
     "name": "Castlevania: Aria of Sorrow Randomizer",
     "game_name": "Castlevania: Aria of Sorrow Randomizer",
     "game_variant": "Abyssonym (v9.2)",
-    "package_version": "2.0",
+    "platform": "gba",
+    "package_version": "3.0",
     "package_uid": "aos_rando_rocher",
-    "author": "Rocher",
-    "link": "https://rocherbrockas.github.io/Aria-of-sorrow/aos_rando_rocher.zip"
+    "author": "Rocher, jat2980",
+    "link": "https://rocherbrockas.github.io/Aria-of-sorrow/aos_rando_rocher.zip",
+    "variants": {
+      "standard": {
+        "display_name": "Standard Map Tracker"
+      }
+    }
 }

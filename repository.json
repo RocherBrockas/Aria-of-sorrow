@@ -1,25 +1,27 @@
 {
-    "name": "Tracker by Rocher",
+    "name": "Tracker by Rocher & jat2980",
     "packages": [
         {
             "name": "Castlevania: Aria of Sorrow Randomizer",
-            "author": "Rocher",
+            "author": "Rocher, jat2980",
             "game_name": "Castlevania: Aria of Sorrow Randomizer",
             "flags": [
                 "map",
                 "pins",
-                "chathud"
+                "chathud",
+                "autotracker"  
             ],
-            "version": "2.0",
+            "version": "3.0",
             "uid": "aos_rando_rocher",
             "link": "https://rocherbrockas.github.io/Aria-of-sorrow/aos_rando_rocher.zip",
             "variants": [
                 {
-                    "name": "Map Tracker",
+                    "name": "Standard Map Tracker",
                     "flags": [
                         "map",
                         "pins",
-                        "chathud"
+                        "chathud",
+                        "autotracker"
                     ]
                 }
             ]
